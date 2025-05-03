@@ -1,1 +1,4 @@
 creator/.env
+creator/dist
+config.bat
+node_modules
